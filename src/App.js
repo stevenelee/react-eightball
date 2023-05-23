@@ -1,9 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
+import Eightball from './Eightball.js'
 
 function App() {
   return (
-    "test"
+    <Eightball />
   );
 }
 
